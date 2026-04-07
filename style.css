@@ -55,7 +55,7 @@ h1 {
     text-transform: uppercase;
     margin-bottom: 10px;
     background: linear-gradient(to right, #fff, #888);
-    -webkit-background-clip: text;
+    -webkit-back-ground-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 0 0 20px rgba(255,255,255,0.5);
 }
@@ -168,7 +168,7 @@ body.light-mode {
 
 body.light-mode .header h1 {
     background: linear-gradient(to right, #333, #000);
-    -webkit-background-clip: text;
+    -webkit-back-ground-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: none;
 }
